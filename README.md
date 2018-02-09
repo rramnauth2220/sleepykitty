@@ -1,2 +1,2 @@
-# sleepykitty
-Sleepy Kitty Introductory App to React Native JS
+# sleepykittyapp
+Introduction to React Native JS
